@@ -1,0 +1,54 @@
+.item1{
+    color:blueviolet;
+    background-color: rgb(0, 255, 157);
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.item2{
+    color: blueviolet;
+    background-color: rgb(116, 210, 253);
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.item3{
+    color: blueviolet;
+    background-color: rgb(180, 219, 40);
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.item4{
+    color: blueviolet;
+    background-color: rgb(0, 255, 136);
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.item5{
+    color: blueviolet;
+    background-color: rgb(48, 204, 48);
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.item6{
+    color: blueviolet;
+    background-color: rgb(240, 255, 103);
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.header{
+    background-color: aqua;
+}
+
+.body{
+    background-color: rgb(30, 255, 0);
+    color: pink;
+}
+
+.total{
+    background-color: rgb(255, 0, 255);
+}
